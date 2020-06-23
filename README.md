@@ -21,4 +21,4 @@ Obs: A versão do Power BI em qual foi criado este arquivo é 2.82.5858.641 64-b
 desenvolvido no idioma Inglês ( Estados Unidos).
 
 
-![Alt text](/https://github.com/cezarmendes/AIRBNB-NYC---Projeto/blob/master/2.POWER_BI/capa.PNG?raw=true)
+![capa](https://github.com/cezarmendes/AIRBNB-NYC---Projeto/blob/master/2.POWER_BI/capa.PNG)
