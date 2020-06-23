@@ -1,0 +1,9 @@
+   {
+       "name": "AIRBNB Theme",
+       "dataColors": ["#FF5A5F", "#00A699", "#FC642D", "#484848", "#767676"],
+       "background":"#FFFFFF",
+       "foreground": "#484848",
+       "tableAccent": "#484848"
+   }
+
+
