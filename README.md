@@ -1,4 +1,4 @@
-# AIRBNB-NYC - Projetct
+# Airbnb NYC - Project
 ![capa](https://github.com/cezarmendes/AIRBNB-NYC---Projeto/blob/master/2.POWER_BI/capa.PNG)
 
 **[EN]**
